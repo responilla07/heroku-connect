@@ -1,0 +1,23 @@
+{
+  "name": "heroku-connect",
+  "version": "1.0.0",
+  "description": "test nodejs connect to heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/responilla07/heroku-connect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/responilla07/heroku-connect/issues"
+  },
+  "homepage": "https://github.com/responilla07/heroku-connect#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
